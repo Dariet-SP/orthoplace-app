@@ -1,0 +1,23 @@
+{
+  "name": "orthoplace-app",
+  "version": "1.0.0",
+  "description": "App interna para manejar mini-inventarios de eventos",
+  "homepage": "https://github.com/Dariet-SP/orthoplace-app#readme",
+  "bugs": {
+    "url": "https://github.com/Dariet-SP/orthoplace-app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dariet-SP/orthoplace-app.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
